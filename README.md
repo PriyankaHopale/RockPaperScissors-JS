@@ -8,6 +8,6 @@ To run the game locally, follow these steps:
 
 Clone this repository to your local machine using Git:
 
-git clone https://github.com/PriyankaHopale/-Rock-Paper-Scissors-Game.git
+git clone https://github.com/PriyankaHopale/Rock-Paper-Scissors-game.git
 
 That's it! You don't need to install any additional dependencies.
