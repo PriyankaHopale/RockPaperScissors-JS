@@ -4,7 +4,7 @@ This is a Rock, Paper, Scissors game built with HTML, CSS, and JavaScript. You c
 
 # Installation
 
-To run the game locally, follow these steps:
+To run the game locally, follow these steps
 
 Clone this repository to your local machine using Git:
 
